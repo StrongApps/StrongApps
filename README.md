@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @StrongApps
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Android
+- 😄 Pronouns: StrApps
+- ⚡ Fun fact: I love cats. 
